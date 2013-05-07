@@ -119,6 +119,7 @@
     <Content Include="piczardUserControls\simpleImageUploadUserControl\simpleImageUpload.js" />
     <Content Include="piczardUserControls\simpleImageUploadUserControl\upload.aspx" />
     <Content Include="piczardUserControls\simpleImageUploadUserControl\wait.gif" />
+    <Content Include="script.sql" />
     <Content Include="scripts\alert\jquery.alerts.js" />
     <Content Include="scripts\alert\jquery.bsAlerts.js" />
     <Content Include="scripts\bootstrap\bootstrap.js" />
